@@ -1,4 +1,4 @@
-# Heptagraph_Tandon
+# iSummarize
 # Meeting transcriber + speaker notes
 Batch pipeline for voice-recorder files: **speech → transcript → speaker-aware notes**. Not realtime.
 Default path:
