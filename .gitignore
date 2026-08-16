@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+inbox/*
+!inbox/.gitkeep
+out/*
+!out/.gitkeep
+processed/*
+!processed/.gitkeep
+failed/*
+!failed/.gitkeep
